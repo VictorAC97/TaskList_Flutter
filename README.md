@@ -1,8 +1,7 @@
-# task_list
+# Task List in Flutter
 
 A new Flutter project.
-
-![untitled](https://user-images.githubusercontent.com/26288178/159616728-f6abc9e9-66f9-4456-881e-89978374bcff.gif)
+<img src="https://user-images.githubusercontent.com/26288178/159616728-f6abc9e9-66f9-4456-881e-89978374bcff.gif" width="400">
 
 In this app, I used the plugin path_provider to localize a directory in the device to save a JSON file containing the tasks from the user.
 
