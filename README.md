@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![untitled](https://user-images.githubusercontent.com/26288178/159616728-f6abc9e9-66f9-4456-881e-89978374bcff.gif)
+
+In this app, I used the plugin path_provider to localize a directory in the device to save a JSON file containing the tasks from the user.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
